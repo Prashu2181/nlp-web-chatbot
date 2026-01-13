@@ -57,7 +57,7 @@ web-chatbot-project/
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/nlp-web-chatbot.git  
+git clone https://github.com/Prashu2181/nlp-web-chatbot  
 cd nlp-web-chatbot
 
 ---
