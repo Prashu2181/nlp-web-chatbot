@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f4f8;
+}
+
+.chat-container {
+    width: 420px;
+    margin: 40px auto;
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#chat-box {
+    height: 320px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    overflow-y: auto;
+    background: #fafafa;
+    border-radius: 6px;
+}
+
+/* Common bubble */
+.message {
+    max-width: 75%;
+    padding: 8px 10px;
+    margin: 6px 0;
+    border-radius: 10px;
+    font-size: 14px;
+    line-height: 1.4;
+    position: relative;
+}
+
+/* User bubble */
+.user {
+    background: #dbeafe;
+    color: #1e3a8a;
+    margin-left: auto;
+    text-align: right;
+    border-bottom-right-radius: 2px;
+}
+
+/* Bot bubble */
+.bot {
+    background: #dcfce7;
+    color: #065f46;
+    margin-right: auto;
+    text-align: left;
+    border-bottom-left-radius: 2px;
+}
+
+.time {
+    font-size: 10px;
+    opacity: 0.6;
+    margin-top: 4px;
+}
+
+.input-area {
+    display: flex;
+    margin-top: 10px;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+#send-btn {
+    margin-left: 6px;
+    padding: 10px 14px;
+    border: none;
+    border-radius: 6px;
+    background: #2563eb;
+    color: white;
+    cursor: pointer;
+}
+
+#send-btn:hover {
+    background: #1d4ed8;
+}
+#mic-btn {
+    margin-left: 6px;
+    padding: 10px;
+    border: none;
+    border-radius: 50%;
+    background: #16a34a;
+    color: white;
+    cursor: pointer;
+}
+
+#mic-btn:hover {
+    background: #15803d;
+}

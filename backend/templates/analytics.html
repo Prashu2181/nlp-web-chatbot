@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat Analytics</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f4f8;
+            text-align: center;
+        }
+        .card {
+            background: white;
+            width: 400px;
+            margin: 40px auto;
+            padding: 20px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>Chat Analytics</h2>
+
+    <p>Total Messages: <b>{{ data.total }}</b></p>
+    <p>Positive: {{ data.positive }}</p>
+    <p>Negative: {{ data.negative }}</p>
+    <p>Neutral: {{ data.neutral }}</p>
+
+    <canvas id="sentimentChart"></canvas>
+</div>
+
+<script>
+const ctx = document.getElementById('sentimentChart');
+new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Positive', 'Negative', 'Neutral'],
+        datasets: [{
+            data: [
+                {{ data.positive }},
+                {{ data.negative }},
+                {{ data.neutral }}
+            ]
+        }]
+    }
+});
+</script>
+
+</body>
+</html>

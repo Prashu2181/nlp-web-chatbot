@@ -1,0 +1,357 @@
+[
+    {
+        "time": "2026-01-11T17:04:37.767634",
+        "original_message": "im hapy",
+        "corrected_message": "in happy",
+        "sentiment": "positive",
+        "bot_reply": "That's great to hear!"
+    },
+    {
+        "time": "2026-01-11T17:04:43.802315",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:09:00.444040",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:09:07.447235",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:11:42.098852",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:12:39.345741",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:15:04.139097",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:28:50.267724",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:28:56.424614",
+        "original_message": "how are you",
+        "corrected_message": "how are you",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:29:02.444118",
+        "original_message": "im happy",
+        "corrected_message": "in happy",
+        "sentiment": "positive",
+        "bot_reply": "That's great to hear!"
+    },
+    {
+        "time": "2026-01-11T17:29:11.270061",
+        "original_message": "im ver sad",
+        "corrected_message": "in ver sad",
+        "sentiment": "negative",
+        "bot_reply": "I'm sorry you're feeling this way."
+    },
+    {
+        "time": "2026-01-11T17:30:43.104478",
+        "original_message": "i am hapy today",
+        "corrected_message": "i am happy today",
+        "sentiment": "positive",
+        "bot_reply": "That's great to hear!"
+    },
+    {
+        "time": "2026-01-11T17:30:58.109334",
+        "original_message": "I am very sad and tired",
+        "corrected_message": "I am very sad and tired",
+        "sentiment": "negative",
+        "bot_reply": "I'm sorry you're feeling this way."
+    },
+    {
+        "time": "2026-01-11T17:31:18.672056",
+        "original_message": "I am very sad and tired",
+        "corrected_message": "I am very sad and tired",
+        "sentiment": "negative",
+        "bot_reply": "I'm sorry you're feeling this way."
+    },
+    {
+        "time": "2026-01-11T17:31:32.984662",
+        "original_message": "i am hapy today",
+        "corrected_message": "i am happy today",
+        "sentiment": "positive",
+        "bot_reply": "That's great to hear!"
+    },
+    {
+        "time": "2026-01-11T17:39:12.970484",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:39:18.780008",
+        "original_message": "how are you",
+        "corrected_message": "how are you",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:46:00.268203",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:46:07.338049",
+        "original_message": "em chestunnav",
+        "corrected_message": "em chestunnav",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:52:50.396927",
+        "original_message": "hi",
+        "corrected_message": "hi",
+        "sentiment": "neutral",
+        "bot_reply": "I see. Tell me more."
+    },
+    {
+        "time": "2026-01-11T17:53:11.264025",
+        "original_message": "I am very happy today",
+        "corrected_message": "I am very happy today",
+        "sentiment": "positive",
+        "bot_reply": "That's great to hear!"
+    },
+    {
+        "time": "2026-01-11T18:04:48.152935",
+        "message": "dher Chala Santosh Sangam",
+        "language": "te",
+        "sentiment": "positive"
+    },
+    {
+        "time": "2026-01-11T18:05:19.486748",
+        "message": "\u092e\u0948\u0902 \u092c\u0939\u0941\u0924 \u0916\u0941\u0936 \u0939\u0942\u0901",
+        "language": "hi",
+        "sentiment": "positive"
+    },
+    {
+        "time": "2026-01-11T18:06:22.539652",
+        "message": "hi",
+        "language": "en",
+        "sentiment": "neutral"
+    },
+    {
+        "time": "2026-01-11T18:06:26.931558",
+        "message": "how are you",
+        "language": "en",
+        "sentiment": "neutral"
+    },
+    {
+        "time": "2026-01-11T18:18:37.382727",
+        "message": "hi",
+        "language": "en",
+        "sentiment": "neutral"
+    },
+    {
+        "time": "2026-01-11T18:18:49.701126",
+        "message": "what is python?",
+        "language": "en",
+        "sentiment": "neutral"
+    },
+    {
+        "time": "2026-01-11T18:25:37.513997",
+        "message": "hi",
+        "language": "en",
+        "sentiment": "neutral"
+    },
+    {
+        "time": "2026-01-11T18:25:45.108482",
+        "message": "what is python",
+        "language": "en",
+        "sentiment": "neutral"
+    },
+    {
+        "time": "2026-01-11T18:25:53.193592",
+        "message": "what is nlp?",
+        "language": "en",
+        "sentiment": "neutral"
+    },
+    {
+        "time": "2026-01-11T18:34:05.329619",
+        "message": "Nenu Chala Santosh Nagar",
+        "language": "te",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-11T18:34:19.255370",
+        "message": "what is python",
+        "language": "te",
+        "sentiment": "neutral",
+        "used_ai": true
+    },
+    {
+        "time": "2026-01-11T18:34:32.933975",
+        "message": "what is python",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": true
+    },
+    {
+        "time": "2026-01-11T18:34:38.438097",
+        "message": "ok",
+        "language": "en",
+        "sentiment": "positive",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-11T18:34:57.209736",
+        "message": "i am very sad",
+        "language": "en",
+        "sentiment": "negative",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-11T18:43:44.576666",
+        "message": "hi",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-11T18:43:55.127800",
+        "message": "what is python?",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": true
+    },
+    {
+        "time": "2026-01-11T18:55:45.968391",
+        "message": "hi",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-11T18:55:53.278886",
+        "message": "what is english",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": true
+    },
+    {
+        "time": "2026-01-11T18:56:08.352351",
+        "message": "what is python",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": true
+    },
+    {
+        "time": "2026-01-11T19:01:32.108211",
+        "message": "hi",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-11T19:01:51.993849",
+        "message": "what is python",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": true
+    },
+    {
+        "time": "2026-01-11T19:02:17.549202",
+        "message": "i am very sad",
+        "language": "en",
+        "sentiment": "negative",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-13T18:09:08.150908",
+        "message": "hi",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-13T18:09:15.794477",
+        "message": "how are you",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": true
+    },
+    {
+        "time": "2026-01-13T18:09:31.845044",
+        "message": "hi",
+        "language": "hi",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-13T18:09:59.752904",
+        "message": "i am very happy",
+        "language": "te",
+        "sentiment": "positive",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-13T18:10:13.509532",
+        "message": "im very sad",
+        "language": "te",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-13T18:10:25.607531",
+        "message": "i am very sad",
+        "language": "te",
+        "sentiment": "negative",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-13T18:10:35.955490",
+        "message": "hi",
+        "language": "hi",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-13T18:19:05.995571",
+        "message": "hi",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": false
+    },
+    {
+        "time": "2026-01-13T18:19:16.870548",
+        "message": "what is python?",
+        "language": "en",
+        "sentiment": "neutral",
+        "used_ai": true
+    }
+]
